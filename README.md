@@ -1,0 +1,2 @@
+# MongoDB Initial Configuration Amsys
+
